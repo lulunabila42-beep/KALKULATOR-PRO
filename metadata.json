@@ -1,0 +1,8 @@
+{
+  "name": "Remix: KalkulatorPro",
+  "description": "A powerful NeoBrutalist scientific calculator designed with a high-contrast theme and responsive portrait/landscape layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
